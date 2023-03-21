@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">CH02_2022_ANAGRAMA</string>
+    <string name="str_checkAnagram">COMPROBAR ANAGRAMA</string>
+    <string name="str_first_word">Palabra 1</string>
+    <string name="str_second_word">Palabra 2</string>
+</resources>
